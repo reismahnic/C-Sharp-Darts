@@ -1,0 +1,5 @@
+C:\Users\Reis\Documents\The Tech Academy\C# Course\Lesson 10 - Namespaces\Tech-Academy-C-Sharp-Darts\DartsGame\Darts\bin\Debug\Darts.dll
+C:\Users\Reis\Documents\The Tech Academy\C# Course\Lesson 10 - Namespaces\Tech-Academy-C-Sharp-Darts\DartsGame\Darts\bin\Debug\Darts.pdb
+C:\Users\Reis\Documents\The Tech Academy\C# Course\Lesson 10 - Namespaces\Tech-Academy-C-Sharp-Darts\DartsGame\Darts\obj\Debug\Darts.csprojResolveAssemblyReference.cache
+C:\Users\Reis\Documents\The Tech Academy\C# Course\Lesson 10 - Namespaces\Tech-Academy-C-Sharp-Darts\DartsGame\Darts\obj\Debug\Darts.dll
+C:\Users\Reis\Documents\The Tech Academy\C# Course\Lesson 10 - Namespaces\Tech-Academy-C-Sharp-Darts\DartsGame\Darts\obj\Debug\Darts.pdb
